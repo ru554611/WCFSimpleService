@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSample.ClientSide", "WCFSample\WCFSample.ClientSide.csproj", "{C980B315-E0A9-42A9-8B43-32436326E306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSample.ServerSide.Service", "WCFSample.ServerSide\WCFSample.ServerSide.Service.csproj", "{77078D70-B2A7-426B-8BD5-D991A4C3A139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSample.Server", "WCFSample.Server\WCFSample.Server.csproj", "{D3D2CBDE-3200-48EC-B439-777194559A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Debug|x86.ActiveCfg = Debug|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Debug|x86.Build.0 = Debug|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Release|Any CPU.ActiveCfg = Release|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Release|x86.ActiveCfg = Release|x86
+		{C980B315-E0A9-42A9-8B43-32436326E306}.Release|x86.Build.0 = Release|x86
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{77078D70-B2A7-426B-8BD5-D991A4C3A139}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Debug|x86.ActiveCfg = Debug|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Debug|x86.Build.0 = Debug|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Release|Any CPU.ActiveCfg = Release|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Release|x86.ActiveCfg = Release|x86
+		{D3D2CBDE-3200-48EC-B439-777194559A54}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
